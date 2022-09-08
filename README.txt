@@ -30,6 +30,7 @@ INSTALLATION
 ---------------------
 Copy the contents of the Publish folder into a new folder in your Program Files directory, or run the .exe from any
 other folder location.
+(PUBLISH FOLDER OMITTED FROM GITHUB DUE TO FILE SIZE - Build this project in Visual Studio to run or publish.)
 
 
 TROUBLESHOOTING
